@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 name: 🐛 Báo cáo lỗi (Bug Report)
 description: Tạo báo cáo lỗi chi tiết giúp đội ngũ kỹ thuật xử lý nhanh hơn
 title: "[Bug]: "
